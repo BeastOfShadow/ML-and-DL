@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 /tests-files
 *.DS_Store
+# WEKA CLI run outputs
+weka-files/out/
