@@ -183,3 +183,9 @@ cython_debug/
 *.DS_Store
 # WEKA CLI run outputs
 weka-files/out/
+
+# Flickr caption dataset (too large to commit)
+datasets/flickr30k/
+datasets/flickr30k_images/
+datasets/flickr8k/
+*.zip
