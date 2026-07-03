@@ -188,4 +188,6 @@ weka-files/out/
 datasets/flickr30k/
 datasets/flickr30k_images/
 datasets/flickr8k/
+datasets/*.npy
+datasets/results.csv
 *.zip
